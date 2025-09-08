@@ -1,0 +1,35 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# uv
+uv.lock
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
