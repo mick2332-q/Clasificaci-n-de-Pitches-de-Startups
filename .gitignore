@@ -11,6 +11,12 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Build y distribución
+build/
+dist/
+*.egg-info/
+*.egg
+
 # uv
 uv.lock
 
