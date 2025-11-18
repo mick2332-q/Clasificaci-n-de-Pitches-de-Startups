@@ -15,6 +15,9 @@ Proyecto que utiliza machine learning y deep learning para clasificar pitches de
 ## Video explicativo
 https://youtu.be/M1RGPC6UmN8?si=pVwqO-6m22SW3OEj
 
+## Colab
+https://drive.google.com/file/d/1GSl9zYA7ECJ19pADxAC5hxIm2v-oKh3R/view?usp=sharing
+
 ## Estructura del proyecto
 ├─ .venv<br>
 ├─ banner.png<br>
@@ -22,6 +25,7 @@ https://youtu.be/M1RGPC6UmN8?si=pVwqO-6m22SW3OEj
 ├─ pyproject.toml<br>
 ├─ README.md<br>
 ├─ startup_company_one_line_pitches.csv 
+
 ### Link al dataset
 https://www.kaggle.com/datasets/pratyushpuri/startup-companies-one-line-pitches-2025
 
