@@ -11,6 +11,9 @@ Proyecto que utiliza machine learning y deep learning para clasificar pitches de
 - Uso
 - Requerimientos
 - Entregas
+  
+## Video explicativo
+https://youtu.be/M1RGPC6UmN8?si=pVwqO-6m22SW3OEj
 
 ## Estructura del proyecto
 ├─ .venv<br>
